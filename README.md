@@ -1,5 +1,12 @@
 # ProvaMaster
 
+## Diretórios GitHub dos Projetos realizados:
+
+1- Prova utilizando Razor: https://github.com/BernardoSlailati/dotnetcore/tree/master/Login
+2- Prova utilizando React: 
+  - Projeto .NET Core Back-End: https://github.com/BernardoSlailati/dotnetcore/tree/master/Products
+  - Projeto React Front-End: https://github.com/BernardoSlailati/react/tree/master/react-app
+
 ### Requisitos
 
 - O projeto deverá compor um sistema de cadastro de produtos.
