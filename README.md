@@ -2,8 +2,9 @@
 
 ## Diretórios GitHub dos Projetos realizados:
 
-1- .NET Core 3.1 + Razor: https://github.com/BernardoSlailati/dotnetcore/tree/master/Login
-2- .NET Core 3.1 + ReactJS: 
+**1)** .NET Core 3.1 + Razor: https://github.com/BernardoSlailati/dotnetcore/tree/master/Login
+
+**2)** .NET Core 3.1 + ReactJS: 
   - Back-End: https://github.com/BernardoSlailati/dotnetcore/tree/master/Products
   - Front-End: https://github.com/BernardoSlailati/react/tree/master/react-app
 
