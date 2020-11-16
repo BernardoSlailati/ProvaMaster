@@ -8,7 +8,7 @@
   - Back-End: https://github.com/BernardoSlailati/dotnetcore/tree/master/Products
   - Front-End: https://github.com/BernardoSlailati/react/tree/master/react-app
 
-### Requisitos
+## Requisitos
 
 - O projeto deverá compor um sistema de cadastro de produtos.
 - Somente poderá ter acesso ao cadastro pessoas autorizadas.
